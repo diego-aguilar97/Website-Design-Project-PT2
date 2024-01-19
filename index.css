@@ -1,0 +1,164 @@
+.title {
+    font-size: 45px;
+    text-align: center;
+}
+
+section {
+    border: solid 3px gray;
+    border-radius: 5px;
+    height: 500px;
+    width: 1200px;
+    margin: 25px auto;
+    align-content: center;
+}
+
+h2 {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.red {
+    background-color: #c40e0e;
+    color: #fff;
+    width: 350px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 20px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.black {
+    background-color: #000;
+    color: #fff;
+    width: 350px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+    margin: 0px auto;
+}
+
+.brown {
+    background-color: #5e340a;
+    color: #fff;
+    width: 350px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+    margin: 0px auto;
+}
+
+.gold {
+    background-color: #FFD700;
+    color: #fff;
+    width: 350px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+    margin: 20px 20px;
+}
+
+.font-container {
+    display: inline-block;
+    margin: 0px 20px;
+}
+
+.roboto-label {
+    font-family: Roboto;
+    text-decoration: underline;
+}
+
+.thin-roboto {
+    font-family: 'Roboto';
+    font-weight: thin;
+}
+
+.regular-roboto {
+    font-family: 'Roboto';
+    font-weight: 400px;
+    font-style: italic;
+}
+
+.bold-roboto {
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.montserrat-label {
+    font-family: 'Montserrat';
+    text-decoration: underline;
+}
+
+.thin-montserrat {
+    font-family: 'Montserrat';
+    font-weight: thin;
+}
+
+.regular-montserrat {
+    font-family: 'Montserrat';
+    font-weight: 400px;
+    font-style: italic;
+}
+
+.bold-montserrat {
+    font-family: 'Montserrat';
+    font-weight: bold;
+}
+
+.lato-label {
+    font-family: 'Lato';
+    text-decoration: underline;
+}
+
+.thin-lato {
+    font-family: 'Lato';
+    font-weight: thin;
+}
+
+.regular-lato {
+    font-family: 'Lato';
+    font-weight: 400px;
+    font-style:italic
+}
+
+.bold-lato {
+    font-family: 'Lato';
+    font-weight: bold;
+}
+
+.main-page-panel li {
+    list-style: square;
+    font-size: 20px;
+}
+
+.main-page-panel {
+    display: inline-block;
+    margin: 0px 50px;
+}
+
+.sub-heading-panel li {
+    list-style: square;
+    font-size: 20px;
+}
+
+.sub-heading-panel {
+    display: inline-block;
+    margin: 0px 50px;
+}
+
+.paragraph-text-panel li {
+    list-style: square;
+    font-size: 20px;
+}
+
+.paragraph-text-panel {
+    display: inline-block;
+    margin: 0px 50px;
+}
